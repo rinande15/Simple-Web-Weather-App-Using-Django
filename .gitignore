@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Database
+db.sqlite3
+
+# Django migrations
+**/migrations/**
+
+# Media files
+/media/
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Node modules (jika Anda menggunakan Node.js untuk frontend)
+node_modules/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Linux file
+*.swp
+
