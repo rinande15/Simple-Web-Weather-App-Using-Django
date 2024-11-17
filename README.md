@@ -1,1 +1,1 @@
-Simple Web Weather App Using Django
+Simple Web Weather App Using Django.
